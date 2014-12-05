@@ -3,7 +3,7 @@ package com.roy.buy.dao;
 import com.roy.buy.entity.User;
 
 /**
- * 會員相關查詢 介面
+ * 介面：會員
  */
 public interface IUserDao extends IBaseDao<User> {
 

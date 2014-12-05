@@ -2,21 +2,17 @@
 
 <div class="well sidebar-nav">
     <ul class="nav nav-list">
-        <li class="nav-header">Sidebar</li>
-        <li class="active"><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li class="nav-header">Sidebar</li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li class="nav-header">Sidebar</li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
+        <li class="nav-header">MEN</li>
+        <li class="active"><a href="#">衣服</a></li>
+        <li><a href="#">褲子</a></li>
+        <li><a href="#">外套</a></li>
+        <li class="nav-header">WOMEN</li>
+        <li><a href="#">衣服</a></li>
+        <li><a href="#">褲子</a></li>
+        <li><a href="#">外套</a></li>
+        <li class="nav-header">KIDS</li>
+        <li><a href="#">衣服</a></li>
+        <li><a href="#">褲子</a></li>
+        <li><a href="#">外套</a></li>
     </ul>
 </div>

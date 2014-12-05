@@ -15,6 +15,7 @@
                 <ul class="nav">
                     <li class="active"><a href="/">首頁</a></li>
                     <li><a href="/Register/Form">註冊</a></li>
+                    <li><a href="/Admin/Home">管理後台</a></li>
                 </ul>
                 
                 <c:choose>

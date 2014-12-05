@@ -6,7 +6,7 @@ import com.roy.buy.dao.IUserDao;
 import com.roy.buy.entity.User;
 
 /**
- * 會員相關查詢 實作
+ * 實作：會員
  */
 @Service("userDao")
 public class UserDao extends BaseDao<User> implements IUserDao {
